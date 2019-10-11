@@ -1,3 +1,10 @@
+/*
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-10-11 15:49:41
+ * @LastEditTime: 2019-10-11 15:49:41
+ * @LastEditors: your name
+ */
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -10,13 +17,14 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h3>hello-world</h3>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.baidu.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Baidu
         </a>
       </header>
     </div>
