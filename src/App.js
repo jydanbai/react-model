@@ -8,5 +8,4 @@
 import React from 'react';
 import ListItem from './ListIten';
 import Dialog from './Dialog';
-import './main.css';
 
